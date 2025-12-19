@@ -43,9 +43,6 @@ const config: Config = {
           include: ["**/*.{js,jsx,ts,tsx,md,mdx}"],
         },
         blog: false,
-        theme: {
-          customCss: "./src/css/custom.css",
-        },
       } satisfies Preset.Options,
     ],
   ],

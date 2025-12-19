@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "AI Agent-Based Hyper-Agile Development",
   tagline: "AI 에이전트 기반의 하이퍼-애자일 개발 방법론",
-  favicon: "img/favicon.ico",
+  favicon: "favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -51,7 +51,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/logo.png",
+    image: "logo.png",
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -59,7 +59,7 @@ const config: Config = {
       title: "HyperAgiled.com",
       logo: {
         alt: "Logo",
-        src: "img/logo.png",
+        src: "logo.png",
       },
     },
     footer: {

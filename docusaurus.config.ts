@@ -51,7 +51,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "logo.png",
+    image: "image.png",
     colorMode: {
       respectPrefersColorScheme: true,
     },
